@@ -1,4 +1,4 @@
-package main.kotlin
+package com.example.learningkotlin
 
 fun main() {
 //    explicitly typed can't be `null`

@@ -1,4 +1,4 @@
-package main.kotlin
+package com.example.learningkotlin
 
 // functions can exist outside of classes
 // top level functions are private by default, and always static

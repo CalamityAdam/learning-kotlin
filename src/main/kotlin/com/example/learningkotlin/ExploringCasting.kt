@@ -1,4 +1,4 @@
-package main.kotlin
+package com.example.learningkotlin
 
 import java.math.BigDecimal
 import java.util.Random

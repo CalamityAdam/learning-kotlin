@@ -1,4 +1,4 @@
-package main.kotlin
+package com.example.learningkotlin
 
 import java.math.BigDecimal
 import kotlin.math.roundToInt
@@ -10,7 +10,7 @@ import kotlin.math.roundToInt
 // cast with "as" keyword
 
 fun main() {
-//    main.kotlin.strings()
+//    com.example.learningkotlin.strings()
     numbers()
 }
 
