@@ -1,4 +1,4 @@
-import java.util.Random
+package main.kotlin
 
 fun main() {
 //    explicitly typed can't be `null`
