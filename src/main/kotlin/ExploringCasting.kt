@@ -12,7 +12,7 @@ fun main() {
     if (randomNumber == 1) {
         result = BigDecimal(30)
     } else {
-      result = "hello"
+        result = "hello"
     }
 
     println("Result is currently $result")
